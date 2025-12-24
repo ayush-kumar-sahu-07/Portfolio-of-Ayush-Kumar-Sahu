@@ -1,159 +1,109 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
-
-<h1 align="center">Developer Portfolio</h1>
+<h1 align="center">Ayush Kumar Sahu — Developer Portfolio</h1>
 
 <p align="center">
-  <strong>A modern, responsive, and customizable portfolio template for developers and freelancers</strong>
+  <strong>A modern, responsive, and high-performance portfolio showcasing my skills, projects, and experience</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16.0.1-black?style=for-the-badge&logo=next.js" alt="Next.js 16.0.1">
-  <img src="https://img.shields.io/badge/React-19.2.0-blue?style=for-the-badge&logo=react" alt="React 19.2.0">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4.x-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Tailwind CSS 4">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Next.js-16.0.1-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-19.2.0-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-4.x-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="#demo-movie_camera">Demo</a> •
-  <a href="#features-sparkles">Features</a> •
-  <a href="#installation-arrow_down">Installation</a> •
-  <a href="#usage-joystick">Usage</a> •
-  <a href="#deployment-rocket">Deployment</a> •
-  <a href="#tutorials-wrench">Tutorials</a>
+  <a href="#demo">Demo</a> •
+  <a href="#features">Features</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#deployment">Deployment</a>
 </p>
 
 ---
 
 ## Overview
 
-A professional portfolio template built with **Next.js 16**, **React 19**, and **Tailwind CSS 4**. Features a modern App Router architecture, server components, and data-driven configuration for easy customization.
+This is my **personal developer portfolio**, built using **Next.js 16**, **React 19**, and **Tailwind CSS 4**.  
+It follows modern best practices such as the **App Router**, **Server Components**, and **data-driven configuration**, making it fast, scalable, and easy to customize.
+
+The portfolio highlights my **skills**, **projects**, **experience**, and provides a direct way to **contact me**.
 
 ---
 
-## Demo :movie_camera:
+## Demo
 
 <p align="center">
   <img src="./public/image/screen.png" alt="Portfolio Screenshot" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://abusaid.netlify.app/" target="_blank">
-    <strong>🚀 View Live Demo</strong>
-  </a>
+  <strong>🚀 Live Demo:</strong> https://your-portfolio-link.com
 </p>
 
 ---
 
-## Features :sparkles:
+## Features
 
-- ✅ **Cutting-Edge Tech Stack**: Built with Next.js 16, React 19, and Tailwind CSS 4
-- ✅ **Fully Responsive**: Optimized for all devices and screen sizes
-- ✅ **SEO Optimized**: Better visibility on search engines with Next.js metadata API
-- ✅ **Blazing Fast Performance**: Leverages Next.js 16 server components and streaming
-- ✅ **App Router**: Uses the modern Next.js App Router architecture
-- ✅ **Easy Customization**: Simple data-driven configuration
-- ✅ **Contact Form**: Integrated email and Telegram notifications
-- ✅ **Blog Integration**: Automatically fetch posts from dev.to
-- ✅ **Dark Theme**: Beautiful gradient design with Lottie animations
-- ✅ **Docker Support**: Easy containerized deployment
-- ✅ **Google Analytics**: Track visitor insights with GTM support
-
----
-
-## Next.js 16 Features Used :rocket:
-
-This portfolio leverages the latest Next.js 16 and React 19 capabilities:
-
-| Feature                  | Benefit                                                      |
-| ------------------------ | ------------------------------------------------------------ |
-| **App Router**           | Modern routing with layouts and nested routes                |
-| **Server Components**    | Improved performance with zero JavaScript for static content |
-| **Server Actions**       | Simplified form handling in contact page                     |
-| **Metadata API**         | Enhanced SEO with type-safe metadata                         |
-| **Image Optimization**   | Automatic image optimization with `next/image`               |
-| **Font Optimization**    | Automatic font loading with `next/font`                      |
-| **Streaming & Suspense** | Better loading states and progressive rendering              |
-| **React 19 Features**    | Actions, use hook, and improved hydration                    |
+- ✅ Built with **Next.js 16** & **React 19**
+- ✅ Fully responsive design for all devices
+- ✅ SEO-optimized using Next.js Metadata API
+- ✅ Fast performance with Server Components
+- ✅ Modern App Router architecture
+- ✅ Easy customization via data files
+- ✅ Contact form with Email & Telegram support
+- ✅ Blog integration from **dev.to**
+- ✅ Dark theme with smooth animations
+- ✅ Docker support for containerized deployment
+- ✅ Google Analytics / GTM ready
 
 ---
 
-## Sections :bookmark:
+## Sections
 
-| Section           | Description                                         |
-| ----------------- | --------------------------------------------------- |
-| 🦸 **Hero**       | Eye-catching introduction with animated elements    |
-| 👤 **About Me**   | Personal information and professional summary       |
-| 💼 **Experience** | Work history and professional accomplishments       |
-| 🛠️ **Skills**     | Technical skills with animated marquee display      |
-| 🚀 **Projects**   | Showcase your best work with descriptions and links |
-| 🎓 **Education**  | Academic background and certifications              |
-| 📝 **Blog**       | Latest articles from dev.to (auto-fetched)          |
-| 📧 **Contact**    | Get in touch form with email/Telegram integration   |
-
----
-
-## Table of Contents :scroll:
-
-- [Overview](#overview)
-- [Demo](#demo-movie_camera)
-- [Features](#features-sparkles)
-- [Sections](#sections-bookmark)
-- [Tech Stack](#tech-stack-computer)
-- [Installation](#installation-arrow_down)
-- [Getting Started](#getting-started-dart)
-- [Usage](#usage-joystick)
-- [Deployment](#deployment-rocket)
-- [Tutorials](#tutorials-wrench)
-  - [Gmail App Password Setup](#gmail-app-password-setup)
-  - [Create a Telegram Bot](#create-a-telegram-bot)
-  - [Fetching Blog from dev.to](#fetching-blog-from-devto)
-- [Packages Used](#packages-used-package)
-- [Contributing](#contributing-handshake)
-- [License](#license-page_with_curl)
-- [Support](#support-coffee)
+| Section     | Description |
+|------------|-------------|
+| Hero       | Introduction and headline |
+| About      | Personal summary |
+| Experience | Work and internships |
+| Skills     | Technical skill set |
+| Projects   | Featured projects |
+| Education  | Academic background |
+| Blog       | Latest dev.to articles |
+| Contact    | Email & Telegram form |
 
 ---
 
-## Tech Stack :computer:
+## Tech Stack
 
-| Technology       | Version | Purpose                                   |
-| ---------------- | ------- | ----------------------------------------- |
-| **Next.js**      | 16.0.1  | React framework with App Router           |
-| **React**        | 19.2.0  | UI component library with latest features |
-| **Tailwind CSS** | 4.x     | Utility-first CSS framework               |
-| **SASS**         | Latest  | CSS preprocessor                          |
-| **Lottie**       | Latest  | Lightweight animations                    |
-| **Nodemailer**   | Latest  | Email sending functionality               |
-| **Axios**        | Latest  | HTTP client for API requests              |
-| **Docker**       | -       | Containerization platform                 |
+| Technology       | Purpose |
+|------------------|--------|
+| Next.js 16       | React framework |
+| React 19         | UI library |
+| Tailwind CSS 4   | Styling |
+| SASS             | CSS preprocessing |
+| Lottie           | Animations |
+| Nodemailer       | Email service |
+| Axios            | API requests |
+| Docker           | Containerization |
 
 ---
 
-## Installation :arrow_down:
+## Installation
 
 ### Prerequisites
 
-Before you begin, ensure you have the following installed on your machine:
-
-| Tool                   | Minimum Version | Download Link                               |
-| ---------------------- | --------------- | ------------------------------------------- |
-| **Node.js**            | v18.17.0+       | [Download](https://nodejs.org/en/download/) |
-| **Git**                | Latest          | [Download](https://git-scm.com/downloads)   |
-| **pnpm** (recommended) | Latest          | [Install](https://pnpm.io/installation)     |
-
-> **Note**: Next.js 16 requires Node.js 18.17 or later. Node.js 20+ is recommended for optimal performance.
-
-#### Verify Installation
-
-Check your installations with these commands:
+- Node.js **18.17+**
+- Git
+- pnpm (recommended) / npm / yarn
 
 ```bash
 node --version
 git --version
-pnpm --version  # or npm --version
-```
+pnpm --version
+
+
+
 
 ---
 
@@ -329,8 +279,6 @@ profile: "/your-image-name.png"; // or .jpg, .webp
 
 ### 🚀 Deploy to Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/said7388/developer-portfolio)
-
 **Manual Deployment:**
 
 1. Sign up at [Vercel](https://vercel.com/)
@@ -349,8 +297,6 @@ profile: "/your-image-name.png"; // or .jpg, .webp
 ---
 
 ### 🌐 Deploy to Netlify
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/said7388/developer-portfolio)
 
 **Manual Deployment:**
 
@@ -412,18 +358,6 @@ TELEGRAM_CHAT_ID=123456789
 
 ---
 
-### 📝 Fetching Blog from dev.to
-
-1. Create a [dev.to](https://dev.to/) account
-2. Open `utils/data/personal-data.js`
-3. Set your dev.to username:
-
-```javascript
-export const personalData = {
-  // ... other fields
-  devUsername: "yourusername",
-};
-```
 
 The portfolio automatically fetches and displays your latest public articles. No API key required.
 
@@ -581,13 +515,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Support :coffee:
 
-- ⭐ [Star the repository](https://github.com/said7388/developer-portfolio/stargazers)
-- � [Report bugs](https://github.com/said7388/developer-portfolio/issues)
-- � [Suggest features](https://github.com/said7388/developer-portfolio/discussions)
+Support
 
----
+- ⭐ Star the repository
+- 🐛 Report issues
+- 💡 Suggest features
 
-![GitHub stars](https://img.shields.io/github/stars/said7388/developer-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/said7388/developer-portfolio?style=social)
-![GitHub issues](https://img.shields.io/github/issues/said7388/developer-portfolio)
-![GitHub license](https://img.shields.io/github/license/said7388/developer-portfolio)
+Made with ❤️ by Ayush Kumar Sahu
+
+

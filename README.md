@@ -38,7 +38,7 @@ The portfolio highlights my **skills**, **projects**, **experience**, and provid
 </p>
 
 <p align="center">
-  <strong>🚀 Live Demo:</strong> https://your-portfolio-link.com
+  <strong>🚀 Live Demo:</strong> https://portfolio-of-ayush-kumar-sahu.vercel.app/
 </p>
 
 ---

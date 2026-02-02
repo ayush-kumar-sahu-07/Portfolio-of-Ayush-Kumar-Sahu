@@ -55,7 +55,7 @@ function Experience() {
                         </p>
                       </div>
                       <div className="flex items-center gap-x-8 px-3 py-5">
-                        <div className="text-violet-500  transition-all duration-300 hover:scale-125">
+                        <div className="text-violet-500 transition-all duration-300 hover:scale-125">
                           <BsPersonWorkspace size={36} />
                         </div>
                         <div>
@@ -65,6 +65,11 @@ function Experience() {
                           <p className="text-sm sm:text-base">
                             {experience.company}
                           </p>
+                          <ul className="list-disc pl-5 text-sm sm:text-base">
+                            {experience.points.map((point, index) => (
+                              <li key={index}>{point}</li>
+                            ))}
+                          </ul>
                         </div>
                       </div>
                     </div>
